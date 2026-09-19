@@ -255,6 +255,103 @@ After Harsh moved on from the Tech team, Dilip took his place. Arya K and Aarav 
 
 Syeda interned and worked as a Business Analyst, helping setup dashboards, on Desk and Frappe Insights, to help us better visualize and contextualize activity in the FOSS United Community.
 
+## Finances`
+
+|Statement of income and expenditure|Amount|
+|--|--|
+|Total income|2,92,73,590 INR|
+|Total expenses|2,39,00,070 INR|
+|Surplus|5,373,520 INR|
+
+* The surplus amount above was moved into a Fixed Deposit
+
+|Income|Amount|
+|---|---|
+|CSR income|1,12,21,670 INR|
+|Total Donations|1,03,35,670 INR|
+|Income from events|75,93,940 INR|
+|Total|2,91,51,270 INR|
+
+* "Donations" above is total donation received from Samagata Foundation
+
+|CSR Income|Amount|
+|---|---|
+|Zerodha|88,71,670 INR|
+|Sensibull|10,00,000 INR|
+|Frappe|6,00,000 INR|
+|The Commit Company|5,00,000 INR|
+|Azim Premji Foundation|2,50,000 INR|
+|Total CSR Income|1,12,21,670 INR|
+
+* Please also see "Frappe" under IndiaFOSS 2025 income to get a full picture of financial contribution from Frappe
+
+|IndiaFOSS 2025 income|Amount|
+|--|--|
+|Frappe|24,00,000 INR|
+|Zeiss|5,00,000 INR|
+|AWS|5,00,000 INR|
+|Ticket sales (Student)|3,29,175 INR|
+|Ticket sales (General)|4,50,636 INR|
+|Ticket sales (Late bird)|2,05,200 INR|
+|Ticket sales (Regular)|4,56,000 INR|
+|Ticket sales (Contributor)|4,10,000 INR|
+|Plane|2,50,000 INR|
+|Bruno|2,50,000 INR|
+|Project Tech4Dev|2,50,000 INR|
+|One World Community|2,50,000 INR|
+|Opensource DB|1,25,000 INR|
+|MapLibre|1,25,000 INR|
+|Rever|1,25,000 INR|
+|Mecha|1,25,000 INR|
+|Juspay|1,00,000 INR|
+|Modmed|1,00,000 INR|
+|Grafana|1,00,000 INR|
+|Total|70,51,011 INR|
+
+* IndiaFOSS 2025 income counts towards the "Income from events" heading under Revenue
+
+|Total Expenses|Amount|
+|--|--|
+|Employee Benefit Expense|1,02,53,410 INR|
+|Depreciation and amortisation|2,25,760 INR|
+|Other Expenses|1,34,20,890 INR|
+|Total|2,39,00,070 INR|
+
+* "Depreciation and amortisation" accounts for depreciation of the value of "Computers and Accessories", "Office Equipments", "Furniture and Fixture", and "Mobile Phones" owned by the Foundation
+
+|Employee Benefit Expense|Amount|
+|--|--|
+|Salary and wages|1,02,42,400 INR|
+|Staff welfare|11,010 INR|
+|Total|1,02,53,410 INR|
+
+* "Salary and wages" includes CEO pay of 30,00,000 INR so 72,42,400 INR amounts to remaining staff salary
+
+|Other Expenses|Amount|
+|--|--|
+|Events Related Expenses|64,72,710 INR|
+|Audit Fees|75,000 INR|
+|Contribution and Grants|32,63,080 INR|
+|Professional Fees|5,43,910 INR|
+|GST Expenses|6,50,410 INR|
+|Travel Expenses|14,59,300 INR|
+|Miscellaneous Expenses|3,15,510 INR|
+|Print and Stationary|1,68,850 INR|
+|Razorpay Service Charges|1,01,560 INR|
+|Server Charges|1,47,380 INR|
+|Domain Registration|1,67,000 INR|
+|Marketing Expenses|56,190 INR|
+|Total|1,34,20,890 INR|
+
+* "Event Related Expenses" above mostly includes IndiaFOSS 2025 expenditure of 47,96,737 INR
+* "Contribution and Grants" above mostly includes project grants, event grants, and fellowships. For detailed information, see Appendix-C, Appendix-D, and Appendix-E
+* "Travel Expenses" above includes staff travel and stay-related expenditure for events, including FOSS United events
+* "Professional Fees" above mostly includes accounting charges
+* "Print and Stationary" above includes event-related printing
+* "Server Charges" above is mostly monthly bills for Linode servers
+* "Domain Registration" above includes AWS monthly bills and (incorrectly) Linux Foundation India event tickets
+* "Marketing Expenses" above includes Google Workspace subscription and FOSS United event goodies (stickers and other swag)
+
 ### Talks and podcasts by FOSS United Foundation staff
 
 ||||
@@ -352,7 +449,10 @@ Project grantees by FOSS United Foundation from 2025
 | Malhar           | Project        | 3,00,000 INR |
 | FlossbOxIN       | Infrastructure | 30,000 INR   |
 | VGLUG Foundation | Community      | 5,00,000 INR |
-| Rethink DNS | Project      | 3,00,000 INR |
+| Rethink DNS      | Project        | 3,00,000 INR |
+| OSVauld          | Project        | 4,00,000 INR |
+| Data for India   | Infrastructure | 2,50,000 INR |
+| Total            | -              | 23,30,000 INR|
 
 #### Appendix - D
 
@@ -383,6 +483,7 @@ Event grants issued by FOSS United Foundation during 2025
 | APIGA India                  | APIGA and IIRO                  | 25,000 INR      |
 | ADCx India 2026              | ADC India                       | 67,000 INR      |
 | MiniDebConf Kanput 2026      | Debian India                    | 20,000 INR      |
+| Total                        | -                               | 3,87,500 INR    |
 
 #### Appendix - E
 
@@ -405,6 +506,7 @@ Fellowships supported by FOSS United during 2025
 | Trishal Kumar   | CoRE Stack Innovation Challenge| 40,000 INR   |
 | Advay and Aarav | Blender x Kannada             | 18,000 INR   |
 | Prerak Singh    | Season of Commits 2025        | 75,000 INR   |
+| Total           | -                             | 9,27,720 INR |
 
 #### Appendix - F
 Companies that supported us financially during FY 2025-26
