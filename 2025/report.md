@@ -9,12 +9,15 @@ In this annual report, I will try my best to lay out our work during 2025 and ho
 The Indian FOSS & Digital Commons communities shape international discourse around FOSS & the Digital Commons.
 
 That's a grand vision, but how do we realise it? Not-for-profit organisations are mission-driven, and our mission is to support and promote the Indian FOSS & Digital Commons ecosystems. But that's a broad mission statement. Over the past year, we have been able to refine it as follows -
+
 ## Mission
 FOSS United Foundation supports and promotes the Indian FOSS ecosystem. We bring new people into existing communities, and we support the people already in the communities to sustain themselves. We incubate new communities when and where they are needed, and enable existing communities to thrive. We work with the industry to publicly acknowledge their usage of FOSS and help them support the Indian FOSS ecosystem. We do this by organising events, providing grants, and campaigning for public policy changes.
+
 ## Programs at FOSS United
 Three distinct principal components emerge when you look at the mission statement - individuals, communities, and organisations - and three kinds of mini missions can be observed: bring new people into the ecosystem, help those already in the ecosystem to sustain themselves, and campaign for institutional support of the ecosystem. These three mini missions form the core of our Programs at FOSS United. A Programme or Program is a structured, funded initiative designed to solve a specific issue, and the "impact" of the Program can be measured in various ways. Therefore, we end up with three Programs at FOSS United - the Learners Program, the Maintainers Program, and the Campaigns Program. And it's incredible that all of our work already fits neatly into an overlap of these Programs.
 
 If you are not aware, the FOSS United Foundation has carried out the following activities over our first five years
+
 - IndiaFOSS annual festival, held in Bengaluru. The conference brings together technologists, designers, policy professionals, and more. It is a welcoming space both for young and inexperienced students and for old and experienced maintainers and creators.
 - FOSS Hack annual hackathon, organized in a hybrid format. The hackathon brings together students and professionals from across the country to create new FOSS projects and to contribute to existing FOSS projects. In the most recent edition of the hackathon, the scope of the hackathon expanded from FOSS projects to Digital Commons projects, e.g., mapping, documentation, design, and other forms of contributions.
 - Grants to financially support the creation of new FOSS. Broadly speaking, only a privileged few create and maintain FOSS, which unfortunately reduces the breadth of problems solved by the FOSS. By financially supporting people to create and maintain FOSS, we are enabling a wider variety of problems to be solved.
@@ -48,11 +51,13 @@ First Commit with Gagandeep Singh, Abhinav Raut, Sreelakshmi Jayarajan. The Firs
 ![PuneFOSS 2025](./event-photos/punefoss.jpg "PuneFOSS 2025")
 
 FOSS x Public Policy Virtual Reading Groups - A small but growing group of people from the FOSS United community are interested in discussing the intersection of FOSS & Digital Commons and Public Policy. The scholarship that we offer to active contributors to pursue the Takshashila Institution GCPP (Tech Policy) since September 2022 has contributed to piquing interest in this area. After the Policy devroom at IndiaFOSS 2025, we started the virtual reading group to enable regular discussions on this topic. Three sessions have been organised so far
-	- The 2015 Policy on Adoption of OSS by Govt. of India
-	- DPDPA 
-	- Right to Repair
+
+- The 2015 Policy on Adoption of OSS by Govt. of India
+- DPDPA
+- Right to Repair
 
 Apart from events that we organized, we worked with or promoted the following events and communities to help them reach a larger audience
+
 - conf.kde.in 2025
 - JSLovers Chennai, Namma Flutter Chennai
 - Namma Flutter, Coimbatore
@@ -93,29 +98,142 @@ it easier for someone to commit to the course. We have now started offering scho
 developers to pursue the PAP program as well, and we are actively trying to steer FOSS developers to
 either of the courses, depending on their experience.
 
-### IndiaFOSS (WIP)
+### IndiaFOSS
 
 ![IndiaFOSS 2025 banner](./event-photos/indiafoss-2025-banners.jpg "IndiaFOSS 2025")
 
-- IndiaFOSS sneak peek sessions in Bengaluru
-- Maintainer Summit
-- Workshops
-- Tech 4 Social Good
-- Good design made simple
-- IndiaFOSS
-	- community partner logos
-	- booth logos
+Every year, we feel like IndiaFOSS can't get any better, and yet, somehow it does.
+IndiaFOSS 2025 had more than 60 sessions in the main track, with almost 50
+additional sessions across 6 devrooms, 60 booths across software, hardware, data,
+policy, wiki, student communities, and commercial FOSS projects. 2500+ people bought
+tickets to the event, including 82 people who bought a "Contributor Tier" ticket to
+support the conference.
+
+||||
+|--|--|--|
+|Android Open Source Project (AOSP) (8 sessions)|Compilers, Programming Languages, and Systems(7 sessions)|FOSS in Science(12 sessions)|
+|Geopolitics and Policy in FOSS(7 sessions)|Open Data(9 sessions)|Open Hardware(6 sessions)|
+
+|||||
+|--|--|--|--|
+|Absurd Industries|Cloud Cubes|Maker Brains|pcb cupid|
+|Build for Bharat Fellowship|CivicDataLab|Digital Futures Lab|Inidx Wikimedia Developers/MediaWiki|
+|ISDM DataSights|Mesquite Mocap|Open Invention Network|OpenStreetMap India|
+|Pratham Books' StoryWeaver|Samaaj Data Collective|SFLC.in|Takshashila Institution|
+|Tattle|Treemouse|Tech4Good Community|Wikimedians of Kerala User Group|
+|Wikisource Reader||||
+|AboutCode|FOSSEE|Gardener|India Linux User Groups|
+|Inkscape|KDE Community|OASIS|Tinkerspace|
+|Ubuntu India|
+|CircuitVerse|devb.io|dwani.ai|Eventyay|
+|exosphere|Flatcar Container Linux|GoFr|k0rdent|
+|KubeArmor|Prav|Regolith Linux|Rethink DNS + Firewall|
+|StratOS Linux|Zasper|||
+|Curium|Flexprice Community|Keploy|Kubevela|
+|marimo.io|Olake|TestZeus||
+|amFOSS|COSH, NITK|FOSSIA|Loopin|
+|Xeneva|Mukti|muLearn|Sahayadri Open Source Community
+|STACKD|
+
+A sincere thank you to our Diversity Sponsors, who helped make IndiaFOSS accessible
+for 67 participants - 59 students and 8 professionals. The group included 33 women,
+34 men, 2 participants from the LGBTQIA++ community, and 1 person with a disability.
+The scholarship recipients traveled from all over the country - Gorakhpur, Kolkata,
+Kishanganj, Bangalore, Pune, Jabalpur, Guntur, Kalamassery, Bhopal, Chennai, Delhi,
+Kottayam, Tirur, Mysore, Hyderabad, Nagpur, Kochi, Kilarkarai, Kassaragod,
+Ahmedabad, Patna, Aluva, Shrinagar, Bhimpur, Kuddalore, and more!
+
+|||||
+|--|--|--|--|
+|Mrugesh Mahopatra|Abhijeet Khandagale|Aswin Bhupalam|Shree Kumar|
+
+And we thank our community partners for helping us expand the FOSS ecosystem.
+
+|||||
+|--|--|--|--|
+|Code4GovTech|FOSS CIT|FOSS Club SSET|FOSS MEC|
 
 ![IndiaFOSS 2025 group photo](./event-photos/indiafoss2025.jpg "IndiaFOSS 2025 group photo")
 
-### FOSS Hack 2026 (WIP)
+#### Maintainer Summit 2025
 
-- Builder Profiles with Contrapunctus, Ramya Raghupathy, Shree Kumar
-- 8 localhosts
-	- SRM KTR, Sai University, DTU, KLH University, GGITS, Quad AI School of Technology and Management, Siliguri Government Polytechnic, STIST
-- 12 community partners
-- 14 partner projects
-	- fossee, rethink dns, zasper, pyodide, maxun, xenevaos, openalgo, hoppscotch, foss united platform, hotosm, maplibre, circuitverse, openstreetmap, core stack
+A lot of new things happened at IndiaFOSS 2025, but the Maintainer Summit deserves
+a special shoutout. Conceptualized by Nemo, and inspired from other unconferences
+that he had participated in earlier, the Maintainer Summit brought together
+almost 100 FOSS creators and maintainers from across the country, for a day-long
+unconference.
+
+![IndiaFOSS 2025 group photo](./event-photos/maintainer-summit.jpg "IndiaFOSS 2025 group photo")
+
+People from Frappe, Pyodide, freeCodeCamp, AboutCode/ScanCode, Inkscape, Alma Linux, OSDAG,
+Hoppscotch, Wraft, Keyshade, FLOSS/Fund, Prav, SafeDep, Ente, GitLab, Zaturn,
+CircuitVerse, Zasper, Jupyter ecosystem, Rethink DNS + Firewall, CNCF, Kubernetes,
+Apache, OWASP, Wikimedia, Hyperswitch, Raven, Linux Kernel, Open Healthcare Network,
+and more participated in the event. And they discussed topics ranging from
+funding and sustainability in the FOSS ecosystems to AI slop, from supply chain
+vulnerabilities and package repositories to self-advocacy for FOSS creators and maintainers,
+from business models for FOSS projects to improving the diversity of the FOSS
+Indian ecosystem.
+
+The Maintainer Summit was central to our understanding of the needs of the Indian FOSS
+ecosystem, and it helped us look beyond surface-level problems and understand deeper
+structural challenges. The summit directly impacted our internal restructuring, and
+helped us expand from a "Grants" approach to a more holistic "Maintainers"/lifecycle
+approach.
+
+### FOSS Hack 2026
+
+The judges were unequivocal after FOSS Hack 2025 - that FOSS Hack needed to change fundamentally.
+Participants had easy access to code-generating AI models, and the judges had the difficult task
+of sifting through (what we now call) AI slop. And change we did. In 2026, FOSS Hack went from
+being a weekend-long hackathon to being a month-long hackathon, and it moved from focusing
+exclusively on the code to supporting work across the Digital Commons, i.e., documentation,
+testing, security, design, open mapping, and more. Looking at just the numbers, 5000+ participants
+registered as 2000+ teams to participate in the event, working across 800 projects in the end,
+an improvement from FOSS Hack 2025.
+
+||||
+|--|--|--|
+|![CoRE Stack](./fosshack-partner-projects/corestack.png "CoRE Stack")|![OpenAlgo](./fosshack-partner-projects/openalgo.jpg "OpenAlgo")|![Pyodide](./fosshack-partner-projects/pyodide.png "Pyodide")|
+|![Maxun](./fosshack-partner-projects/maxun.png "Maxun")|![Hoppscotch](./fosshack-partner-projects/hoppscotch.png "Hoppscotch")|![OpenStreetMap](./fosshack-partner-projects/osm.png "OpenStreetMap")|
+
+We also increased the focus on contributing to existing FOSS projects, partnering with 14 FOSS projects/communities, in an attempt to bring new contributors into their ecosystems.
+
+|||||
+|--|--|--|--|
+|FOSSEE|Rethink DNS|Zasper|Pyodide|
+|Maxun|XenevaOS|FOSS United|Hoppscotch|
+|OpenAlgo|MapLibre|HOTOSM|CircuitVerse|
+|Core Stack|OpenStreetMap|||
+
+To inspire the participants, we organized "Builder Profiles" virtual sessions
+with Contrapunctus on Open Stree Mapping, Ramya Raghupathy on MapLibre/HOTOSM,
+and Shree Kumar on FOSS & Open Hardware. We organized open community calls during
+March to engage the participants regularly, and help address any questions they
+have. We were pleasantly surprised when a few of them turned up to demo their
+work ahead of the deadline.
+
+And given the focus on building consistently, we selected fewer localhosts than in 2025 (8 vs 10), and worked with them to organize regular events to engage the student
+participants.
+
+||||
+|--|--|--|
+|SRM, KTR Campus, Chennai|Sai University, Chennai|DTU, Delhi|
+|KLH University, Hyderabad|GGITS, Jabalpur|Quad AI School of Technology and Management, Patna|
+|Siliguri Government Polytechnic, Siliguri|STIST, Trivandrum||
+
+In the end, we disbursed prize money of more than 10 Lakhs INR, of which more than
+2 Lakhs INR was disbursed to winners who contributed to existing FOSS projects,
+including partner projects.
+
+We thank our community partners for working with us to bring this new vision of
+FOSS Hack to life, and for helping us pull it off!
+
+|||||
+|--|--|--|--|
+|FOSS Clubs|PICT OSS|Absurd Industries|Django India|
+|PyDelhi|FOSSEE|BangPypers|OSDC|
+|FOSS MEC|SciPy India|DataMeet|FOSSCell NITC|
 
 ### India AI Impact Summit
 
@@ -139,6 +257,7 @@ Interestingly, we also got the opportunity to organise an event with Mozilla on 
 During the unconference, the participants split up into groups to discuss Open Source AI in the context of Education, Climate, and Local AI, where each discussion was led by one or more of the speakers.
 
 We ended the event with a fireside-style chat with Raffi, CTO of the Mozilla Foundation, and John, CEO of Mozilla.ai. Raffi and John candidly answered questions about how they perceive Open Source AI, what the role of Mozilla is in this new AI age, and related challenges and opportunities.
+
 - Harnessing Open Source AI (Official IndiaAI Impact Summit pre-event)
 - Future of Open Source AI with Mozilla
 
@@ -235,6 +354,11 @@ The Role of FOSS in Indian IT panel discussion was moderated by Retired Prof. Ra
 
 Finally, Poruri Sai Rahul, CEO, FOSS United Foundation moderated the panel discussion on Education Sector & FOSS, with Prof. Shobha Tyagi, MRIIRS, Karkee U, Founder of Villipuram GNU Linux User Community, and Prof. Vigneswara Ilavarasan, IIT Delhi as panelists.
 
+## Enabling functions (WIP)
+
+- [ ] diversity, equity, and inclusion
+- [ ] tech/platform
+
 ## Governing Board
 
 After a long 2024, the FOSS United Community elected our first ever Governing Board. Starting April
@@ -255,7 +379,7 @@ After Harsh moved on from the Tech team, Dilip took his place. Arya K and Aarav 
 
 Syeda interned and worked as a Business Analyst, helping setup dashboards, on Desk and Frappe Insights, to help us better visualize and contextualize activity in the FOSS United Community.
 
-## Finances`
+## Finances
 
 |Statement of income and expenditure|Amount|
 |--|--|
@@ -376,10 +500,10 @@ Notable active FOSS United communities during 2025
 
 ||||
 |--|--|--|
-|![Bengaluru](./city-logos/bengaluru.svg "Bengaluru")|![Coimbatore](./city-logos/coimbatore.svg "Coimbatore")|![Chennai](./city-logos/chennai.svg "Chennai")|
-|![Delhi](./city-logos/delhi.svg "Delhi")|![Hyderabad](./city-logos/hyderabad.svg "Hyderabad")|![Kolkata](./city-logos/kolkata.svg "Kolkata")|
-|![Lucknow](./city-logos/lucknow.svg "Lucknow")|![Mangalore](./city-logos/manglore.svg "Mangalore")|![Mumbai](./city-logos/mumbai.svg "Mumbai")|
-|![Mysore](./city-logos/mysore.svg "Mysore")|![Patna](./city-logos/patna.svg "Patna")|![Pune](./city-logos/pune.svg "Pune")|
+|![Bengaluru](./city-logos/bengaluru.jpg "Bengaluru")|![Coimbatore](./city-logos/coimbatore.jpg "Coimbatore")|![Chennai](./city-logos/chennai.jpg "Chennai")|
+|![Delhi](./city-logos/delhi.jpg "Delhi")|![Hyderabad](./city-logos/hyderabad.jpg "Hyderabad")|![Kolkata](./city-logos/kolkata.jpg "Kolkata")|
+|![Lucknow](./city-logos/lucknow.jpg "Lucknow")|![Mangalore](./city-logos/manglore.jpg "Mangalore")|![Mumbai](./city-logos/mumbai.jpg "Mumbai")|
+|![Mysore](./city-logos/mysore.jpg "Mysore")|![Patna](./city-logos/patna.jpg "Patna")|![Pune](./city-logos/pune.jpg "Pune")|
 
 - A total of 367 events were organized by the FOSS United Foundation and the Community
 	- 11 in Chennai
@@ -411,10 +535,10 @@ Notable active student clubs during 2025
 ||||
 |--|--|--|
 |![Coimbatore Institute of Technology](./college-logos/Coimbatore-CIT.png "Coimbatore Institute of Technology")|![University of Gauhati](./college-logos/GU.png "University of Gauhati")|![IIIT Kottayam](./college-logos/IIITKottayam.jpg "IIIT Kottayam")|
-|![I K Gujral Punjab Technical University](./college-logos/IKGPTU.png "I K Gujral Punjab Technical University")|![NIT Srinagar](./college-logos/NITSrinagar.png "NIT Srinagar")|![AMRITA](./college-logos/amrita.svg "AMRITA")|
+|![I K Gujral Punjab Technical University](./college-logos/IKGPTU.png "I K Gujral Punjab Technical University")|![NIT Srinagar](./college-logos/NITSrinagar.png "NIT Srinagar")|![AMRITA](./college-logos/amrita.jpg "AMRITA")|
 |![Ramaiah Institute of Technology](./college-logos/ramaiah-institute-of-tech.png "Ramaiah Institute of Technology")|![Gyan Ganga Institute of Technology and Sciences](./college-logos/GGITS.png "Gyan Ganga Institute of Technology and Sciences")|![IIIT Kalyani](./college-logos/IIIT-Kalyani.png "IIIT Kalyani")|
-|![IIT Bhilai](./college-logos/IITBhilai.png "IIT Bhilai")|![JIIT Noida](./college-logos/JIIT-noida.svg "JIIT Noida")|![NMIMS, Mumbai](./college-logos/NMIMS.png "NMIMS, Mumbai")|
-|![VIT Chennai](./college-logos/VIT-Chennai.webp "VIT Chennai")|![Bennett University](./college-logos/bennett-university.webp "Bennett University")|![SRM University](./college-logos/srm.svg "SRM")|
+|![IIT Bhilai](./college-logos/IITBhilai.png "IIT Bhilai")|![JIIT Noida](./college-logos/JIIT-noida.jpg "JIIT Noida")|![NMIMS, Mumbai](./college-logos/NMIMS.png "NMIMS, Mumbai")|
+|![VIT Chennai](./college-logos/VIT-Chennai.jpg "VIT Chennai")|![Bennett University](./college-logos/bennett-university.jpg "Bennett University")|![SRM University](./college-logos/srm.jpg "SRM")|
 
 ||||
 |--|--|--|
@@ -440,7 +564,7 @@ Project grantees by FOSS United Foundation from 2025
 
 ||||
 |--|--|--|
-|![VGLUG](./grantee-logos/VGLUG.png "VGLUG")|![CircuitVerse](./grantee-logos/circuitverse.svg "CircuitVerse")|![Zasper](./grantee-logos/zasper.svg "Zasper")||
+|![VGLUG](./grantee-logos/VGLUG.png "VGLUG")|![CircuitVerse](./grantee-logos/circuitverse.jpg "CircuitVerse")|![Zasper](./grantee-logos/zasper.jpg "Zasper")||
 
 | Project          | Kind           | Total amount |
 | ---------------- | -------------- | ------------ |
@@ -460,15 +584,15 @@ Event grants issued by FOSS United Foundation during 2025
 
 ||||
 |--|--|--|
-|![ADCx India 2026](./grantee-logos/ADCx-India-2026.webp "ADCx India 2026")|![FOSS4G Asia 2026](./grantee-logos/FOSS4G.png "FOSS4G Asia 2026")|![OSM Kerala State of the Map](./grantee-logos/OSMKerala_SoTM.png "OpenStreetMap Kerala State of the Map 2025")|
+|![ADCx India 2026](./grantee-logos/ADCx-India-2026.jpg "ADCx India 2026")|![FOSS4G Asia 2026](./grantee-logos/FOSS4G.png "FOSS4G Asia 2026")|![OSM Kerala State of the Map](./grantee-logos/OSMKerala_SoTM.png "OpenStreetMap Kerala State of the Map 2025")|
 |![AnthillHacks](./grantee-logos/anthillhacks.png "AnthillHacks")|![APIGA](./grantee-logos/apiga.png "APIGA")|![Daydream Jhansi](./grantee-logos/daydream.png "Daydream Jhansi")
-|![FOSS MEC](./grantee-logos/fossmec.svg "FOSS MEC")|![Ubuntu India 2025](./grantee-logos/ubuntu-india.png "Ubuntu India 2025")|
+|![FOSS MEC](./grantee-logos/fossmec.jpg "FOSS MEC")|![Ubuntu India 2025](./grantee-logos/ubuntu-india.png "Ubuntu India 2025")|
 |![MiniDebConf Kanpur](./grantee-logos/mdckanpur.png "MiniDebConf Kanpur")|![OpenSUSE Asia Summit 2025](./grantee-logos/opensuse-india.png "OpenSUSE Asia Summit 2025")|![SFLC Hackathon](./grantee-logos/sflc.png "SFLC Hackathon")|
-
 
 | Event                        | Organizing community            | Amount |
 | ---------------------------- | ------------------------------- | ------ |
 | ADCx India 2025              | ADC India                       | 33,000 INR      |
+| BarCamp Bangalore 2025       | BarCamp Bangalore               | 50,000 INR      |
 | L3E                          | CIRA, NIT Calicut               | 2,500 INR       |
 | OSD Hack 2025                | OSDC, JIIT Noida                | 15,000 INR      |
 | Linux Diary 6.0              | Walchand College of Engineering | 7,000 INR       |
@@ -483,7 +607,7 @@ Event grants issued by FOSS United Foundation during 2025
 | APIGA India                  | APIGA and IIRO                  | 25,000 INR      |
 | ADCx India 2026              | ADC India                       | 67,000 INR      |
 | MiniDebConf Kanput 2026      | Debian India                    | 20,000 INR      |
-| Total                        | -                               | 3,87,500 INR    |
+| Total                        | -                               | 4,37,500 INR    |
 
 #### Appendix - E
 
@@ -524,18 +648,18 @@ Companies that supported us financially during FY 2025-26
 |compossible umwelten (MumbaiFOSS)|skyflo.ai (MumbaiFOSS)||
 |ente(in-kind sponsor)|cal.com (in-kind sponsor)||
 |MIMA Institute of Management (venue sponsor)|IIIT Lucknow (venue sponsor)|NMIMS (venue partner)|
+
 #### Appendix - G
 
 Notable venue partners for FOSS United events
 
 ||||
 |--|--|--|
-|![Frappe](./venue-logos/Frappe.svg "Frappe")|![IIIT Bhagalpur](./venue-logos/IIITBhagalpur.png "IIIT Bhagalpur")|![IIIT Lucknow](./venue-logos/IIITL.png "IIIT Lucknow")|
-|![IIIT Hyderabad](./venue-logos/IIIT_Hyderabad.jpg "IIIT Hyderabad")|![InMobi](./venue-logos/InMobi.svg "InMobi")|![MEC Kochi](./venue-logos/MECKochi.png "MEC Kochi")|
-|![NITK Suratkal](./venue-logos/NITKSuratkal.png "NITK Suratkal")|![RedHat](./venue-logos/RedHat.svg "RedHat")|![Remiges Tech](./venue-logos/Remiges.png "Remiges Tech")|
-|![IIT Madras](./venue-logos/iitm.png "IIT Madras")|![Samagata Foundation](./venue-logos/samagata.svg "Samagata Foundation")|![Takshashila Instituteion](./venue-logos/takshashila-institution.svg "Takshashila Institution")|
+|![Frappe](./venue-logos/Frappe.jpg "Frappe")|![IIIT Bhagalpur](./venue-logos/IIITBhagalpur.png "IIIT Bhagalpur")|![IIIT Lucknow](./venue-logos/IIITL.png "IIIT Lucknow")|
+|![IIIT Hyderabad](./venue-logos/IIIT_Hyderabad.jpg "IIIT Hyderabad")|![InMobi](./venue-logos/InMobi.jpg "InMobi")|![MEC Kochi](./venue-logos/MECKochi.png "MEC Kochi")|
+|![NITK Suratkal](./venue-logos/NITKSuratkal.png "NITK Suratkal")|![RedHat](./venue-logos/RedHat.jpg "RedHat")|![Remiges Tech](./venue-logos/Remiges.png "Remiges Tech")|
+|![IIT Madras](./venue-logos/iitm.png "IIT Madras")|![Samagata Foundation](./venue-logos/samagata.jpg "Samagata Foundation")|![Takshashila Instituteion](./venue-logos/takshashila-institution.jpg "Takshashila Institution")|
 |![ThoughtWorks](./venue-logos/thoughtworks_flamingo_mist.png "ThoughtWorks")|||
-
 
 ||||
 |--|--|--|
