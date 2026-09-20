@@ -354,10 +354,69 @@ The Role of FOSS in Indian IT panel discussion was moderated by Retired Prof. Ra
 
 Finally, Poruri Sai Rahul, CEO, FOSS United Foundation moderated the panel discussion on Education Sector & FOSS, with Prof. Shobha Tyagi, MRIIRS, Karkee U, Founder of Villipuram GNU Linux User Community, and Prof. Vigneswara Ilavarasan, IIT Delhi as panelists.
 
-## Enabling functions (WIP)
+## Enabling functions
 
-- [ ] diversity, equity, and inclusion
-- [ ] tech/platform
+### Diversity, Equity, and Inclusion
+
+It's no surprise that there is little to no gender diversity in the software ecosystem,
+let alone the FOSS ecosystem. Apart from gender, diversity in academic background, in
+geographic location, and so on, are also a systemic issue in the tech sector. Last year,
+we chose to expand the scope of our diversity efforts to go beyond only gender diversity.
+This was not because the gender diversity problem was "solved", it was because we needed
+more breathing room to see results, in the short-term and in the long-term.
+
+Apart from Diversity Scholarships at IndiaFOSS 2025, our effort to improve vernacular
+FOSS advocacy are worth calling out here. After ChennaiFOSS 2024, we slowly observed
+an ever increasing discourse about FOSS in the Tamil language by the Chennai tech
+ecosystem. The discourse didn't just stop with YouTubers - the Chennai tech ecosystem,
+including the FOSS United Chennai community, organized the first ever
+Tamil Open Source Software Conference, i.e., TOSSConf, in Chennai last year! It's the
+first tech conference in our awareness where the primary language for communication
+during the event wasn't English. Along the same lines, it's worth calling out Advays' and Aaravs'
+efforts to advocate for Blender in Kannada, supported by a FOSS United grant.
+
+It took a few years, but it has become abundantly clear to us that DEI work is,
+and needs to be treated as, an enabler across the organization. But we are yet to meaningfully
+incorporate DEI work across the breadth of work at FOSS United, let alone articulate
+and achieve the goals we had for the Diversity Scholarships program at IndiaFOSS in the
+first place. Our efforts to find long-term partners to work on improving diversity
+have also been in vain, since most diversity scholarship recipients don't continue
+engaging with the FOSS ecosystem after the event, as far as we are aware.
+
+Over the coming year, we will layout the goals of our diversity work, evaluation rubrics
+for the success or failure of our diversity work across the breadth of FOSS United initiatives,
+and ensure that diversity is treated as an org-wide effort.
+
+### Tech
+
+Apart from regular upkeep and maintenance of the code and infrastructure behind
+fossunited.org, the tech team mostly focused design-related changes to various
+FOSS United pages, for instance, FOSS Hack 2026. The team also continues to maintain
+the tech infrastructure that the FOSS United community has come to rely on, for instance,
+Jitsi Meet for internal and open community calls, listmonk for newsletters, and so on.
+For a complete understanding of the FOSS that we rely upon, both for fossunited.org
+and other websites, and for internal team infrastructure, please see the
+[FOSS United stack page](https://fossunited.org/stack).
+
+While the software powering fossunited.org is FOSS, we only get a handful of contributions,
+and almost all of the contributions are fly-by in nature. The advent of code-generating
+AI has reduced the barrier for contribution, but it appears we have a long way
+to go before we become a FOSS project that is not only open-source but is also
+built and maintained by the FOSS United Community, and not just by the team.
+Volunteers use the platform a few times a month, so volunteers are best suited
+to comment on what is needed and what isn't. Over the coming year, we will
+attempt to better understand what we can do to improve contributions to the
+codebase..
+
+Additionally, while the software is FOSS, there are no other users of the software,
+as far as we are aware. And this isn't because there isn't a need for an event management
+software - at least a few times an year, we come across people who built an event management
+software from scratch, or people who are looking for a FOSS alternative only to end up
+eventually on Luma. The FOSS United codebase has a long way to go before it's truly a
+general purpose event management software, at least as far as the needs of a FOSS community
+are. We intend to address this over the coming year - not because we want to become one more
+general purpose event management software, but because it's almost good enough to solve the
+needs of the people that reach out to us asking for solutions.
 
 ## Governing Board
 
