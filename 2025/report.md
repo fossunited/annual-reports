@@ -463,6 +463,7 @@ Syeda interned and worked as a Business Analyst, helping setup dashboards, on De
 |Sensibull|10,00,000 INR|
 |Frappe|6,00,000 INR|
 |The Commit Company|5,00,000 INR|
+|Anonymous Institutional Funder|2,50,000 INR|
 |Total CSR Income|1,12,21,670 INR|
 
 * Please also see "Frappe" under IndiaFOSS 2025 income to get a full picture of financial contribution from Frappe
