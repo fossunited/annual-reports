@@ -452,7 +452,8 @@ Syeda interned and worked as a Business Analyst, helping setup dashboards, on De
 |---|---|
 |CSR income|1,12,21,670 INR|
 |Total Donations|1,03,35,670 INR|
-|Income from events|75,93,940 INR|
+|Income from events|51,93,940 INR|
+|Sponsorship from Frappe (Patron Partner)|24,00,000 INR|
 |Total|2,91,51,270 INR|
 
 * "Donations" above is total donation received from Samagata Foundation
@@ -466,11 +467,10 @@ Syeda interned and worked as a Business Analyst, helping setup dashboards, on De
 |IndiaFOSS Diversity Scholarship donation from external Foundation|2,50,000 INR|
 |Total CSR Income|1,12,21,670 INR|
 
-* Please also see "Frappe" under IndiaFOSS 2025 income to get a full picture of financial contribution from Frappe
+* Frappe, a Patron Partner, contributed 30,00,000 INR in FY 2025-26 (6,00,000 INR CSR + 24,00,000 INR sponsorship under Income). This includes an additional 6,00,000 INR, as Frappe transferred only 18,00,000 INR instead of INR 24,00,000 during FY 2024-25.
 
 |IndiaFOSS 2025 income|Amount|
 |--|--|
-|Frappe|24,00,000 INR|
 |Zeiss|5,00,000 INR|
 |AWS|5,00,000 INR|
 |Ticket sales (Student)|3,29,175 INR|
@@ -489,7 +489,7 @@ Syeda interned and worked as a Business Analyst, helping setup dashboards, on De
 |Juspay|1,00,000 INR|
 |Modmed|1,00,000 INR|
 |Grafana|1,00,000 INR|
-|Total|70,51,011 INR|
+|Total|46,51,011 INR|
 
 * IndiaFOSS 2025 income counts towards the "Income from events" heading under Revenue
 
